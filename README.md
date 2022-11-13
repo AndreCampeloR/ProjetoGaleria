@@ -9,6 +9,10 @@ Que consiste em uma galeria de imagens na qual estão organizadas em albuns de a
 ## Layout mobile
 <img height="550px" src="assets/galleriaRespo.png">
 
+## Layout web
+<img width="900px" src="assets/galleria.png">
+<img width="908px" src="assets/galleria1.png">
+
 # Tecnologias utilizadas
 - HTML
 - SASS
