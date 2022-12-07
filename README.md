@@ -13,12 +13,12 @@ Que consiste em uma galeria de imagens na qual estão organizadas em albuns de a
 <img width="900px" src="assets/galleria.png">
 <img width="908px" src="assets/galleria1.png">
 
-# Tecnologias utilizadas
+### Tecnologias utilizadas
 - HTML
 - SASS
 
 
-## Autor
+### Autor
 
 André Luiz Campelo
 
